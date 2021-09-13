@@ -1,0 +1,1666 @@
+.body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden !important;
+}
+
+.background-color-preto {
+    background-color: #111111 !important;
+    height: 490px;
+}
+
+.height-660 {
+    height: 660px;
+}
+
+.height-600 {
+    height: 600px;
+}
+
+.div-height-600 {
+    height: 600px;
+}
+
+.height-450 {
+    height: 450px;
+}
+
+.height-400 {
+    height: 400px;
+}
+
+.background-color-laranja {
+    background-color: #ed242e !important;
+}
+
+.cor-red {
+    background-color: #ed242e !important;
+}
+
+.background-color-azul {
+    background-color: #00132b !important;
+}
+
+.background-color-branco {
+    background-color: white !important;
+}
+
+.height-90 {
+    height: 90px;
+}
+
+.div-menu {
+    padding-top: 3%;
+    padding-left: 9%;
+    font-size: 17px;
+}
+
+.conteudo-home {
+    text-decoration: none !important;
+}
+
+.primeiro-conteudo {
+    padding-left: 6%;
+    text-decoration: none !important;
+}
+
+.segundo-conteudo {
+    padding-left: 7%;
+    text-decoration: none !important;
+}
+
+.cor-branca {
+    color: white !important;
+}
+
+.cor-branca:hover {
+    color: #00132b !important;
+}
+
+.icone-menu {
+    padding: 40%;
+    color: white !important;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.background-image {
+    background-image: url(https://technext.github.io/covido/images/banner.png);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    position: relative;
+    height: 630px;
+}
+
+.primeira-div {
+    color: white;
+    padding-top: 15%;
+    padding-left: 8%;
+    font-weight: bold;
+    font-size: 98px;
+}
+
+.botao-primeira-div {
+    margin-left: 2%;
+    width: 200px;
+    margin-top: 4%;
+}
+
+.botao-primeira-div:hover {
+    color: white !important;
+    background-color: #ed242e !important;
+}
+
+.segundo-botao-primeira-div {
+    width: 200px;
+    margin-top: 4%;
+}
+
+.segundo-botao-primeira-div:hover{
+    color: white !important;
+    background-color: #ed242e !important;
+}
+
+.icone-slide-show {
+    background-color: #ed242e;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin-top: 220px;
+    opacity: 1 !important;
+    padding-bottom: 27px;
+    font-size: 37px;
+    padding-top: 25px;
+    padding-right: 5px;
+    margin-left: 10px;
+}
+
+.icone-direita-slide-show {
+    background-color: #ed242e;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin-top: 220px;
+    opacity: 1 !important;
+    padding-bottom: 27px;
+    font-size: 37px;
+    padding-top: 25px;
+    padding-right: 5px;
+    margin-right: 10px;
+}
+
+.segunda-div {
+    margin-top: 4%;
+    margin-left: 5%;
+    background-color: white !important;
+    width: 89%;
+    box-shadow: 3px 0 62px rgb(13 3 3 / 18%);
+    border-radius: 60px;
+    position: absolute;
+    top: 445px;
+}
+
+.texto-segunda-div {
+    padding-top: 21%;
+    padding-left: 8%;
+}
+
+.divisor {
+    width: 13%;
+    height: 2%;
+    background-color: #ed242e !important;
+    margin-left: 8%;
+    border-radius: 10px;
+}
+
+.subtitulo-segunda-div {
+    padding-left: 8%;
+    padding-top: 5%;
+    font-size: 19px;
+}
+
+.botao-segunda-div {
+    margin-left: 8%;
+    width: 275px;
+    margin-top: 10%;
+    height: 75px;
+    background-color: #00132b !important;
+    color: white !important;
+}
+
+.botao-segunda-div:hover {
+    background-color: #ed242e !important;
+    color: white !important;
+}
+
+.background-image2 {
+    background-image: url(https://technext.github.io/covido/images/about.png);
+    background-position: center;
+    background-size: cover;
+    height: 435px;
+    margin-right: 7%;
+    margin-top: 16%;
+}
+
+.background-image3 {
+    background-image: url(https://technext.github.io/covido/images/corona.png);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    margin-top: 6%;
+}
+
+.background-image4 {
+    background-image: url(https://technext.github.io/covido/images/project.png);
+    background-position: center;
+    background-size: cover;
+    margin-top: 3%;
+    margin-left: 3%;
+    background-size: 100% 100%;
+    padding-bottom: 48px;
+    margin-right: 3%;
+}
+
+.background-image5 {
+    background-image: url(https://technext.github.io/covido/images/corona_icon.png);
+    background-position: center;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 158px;
+    top: 497px;
+}
+
+.background-imagem5 {
+    background-image: url(https://technext.github.io/covido/images/corona_icon.png);
+    background-position: center;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 177px;
+    top: 497px;
+}
+
+.background-image6 {
+    width: 105px;
+    height: 105px;
+    position: absolute;
+    left: 40%;
+    bottom: 85%;
+    box-shadow: 3px 0 62px rgb(13 3 3 / 18%);
+}
+
+.background-image7 {
+    background-image: url(https://technext.github.io/covido/images/ever_bg.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 390px;
+}
+
+.padding-top-40 {
+    padding-top: 40%;
+}
+
+.padding-top-15 {
+    padding-top: 15%;
+}
+
+.texto {
+    padding-top: 6%;
+    font-size: 19px;
+}
+
+.botao {
+    width: 275px;
+    margin-top: 12%;
+    height: 75px;
+    background-color: #00132b !important;
+    color: white !important;
+}
+
+.botao:hover {
+    background-color: #ed242e !important;
+    color: white !important;
+}
+
+.margin-top-7 {
+    margin-top: 7%;
+}
+
+.fonte-size-43 {
+    font-size: 43px;
+}
+
+.fonte-size-17 {
+    font-size: 17px;
+}
+
+.padding-top-515 {
+    padding-top: 515px;
+}
+
+.padding-left-4 {
+    padding-left: 4%;
+}
+
+.padding {
+    padding: 6%;
+}
+
+.box-div {
+    box-shadow: 3px 0 62px rgb(13 3 3 / 20%);
+}
+
+.botao-absolute {
+    width: 175px;
+    margin-top: 12%;
+    height: 50px;
+    background-color: #00132b !important;
+    color: white !important;
+    position: absolute;
+    top: 60px;
+    left: 93px;
+}
+
+.botao-absolute:hover {
+    background-color: #ed242e !important;
+}
+
+.fonte-size-16 {
+    font-size: 16px;
+}
+
+.texto-centro {
+    padding-top: 9%;
+    padding-bottom: 8%;
+}
+
+.padding-top-20 {
+    padding-top: 20%;
+}
+
+.icone {
+    font-size: 20px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.texto-centralizado {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.div-email {
+    width: 94%;
+    padding-left: 7%;
+    padding-right: 2%;
+    margin-top: 9%;
+}
+
+.div-seu-email {
+    background-color: white !important;
+    height: 90px;
+    border-radius: 50px;
+}
+
+.sexta-div-botao {
+    width: 400px;
+    margin-top: 13%;
+    height: 70px;
+    background-color: #00132b !important;
+    color: white !important;
+    position: absolute;
+    top: 60px;
+    left: 480px;
+    border-radius: 50px;
+}
+
+.sexta-div-botao:hover {
+    background-color: #ed242e !important;
+    color: white !important;
+}
+
+.padding-top-5 {
+    padding-top: 5%;
+}
+
+.titulo-ultima-div {
+    font-size: 20px;
+    padding-top: 50%;
+    padding-bottom: 5%;
+}
+
+.line-height-30 {
+    line-height: 30px;
+}
+
+.conteudo-ultima-div {
+    font-size: 17px;
+    color: #979793 !important;
+    cursor: pointer;
+}
+
+.conteudo-ultima-div:hover {
+    color: #ed242e !important;
+}
+
+.segundo-titulo {
+    font-size: 20px;
+    padding-top: 31%;
+    padding-bottom: 5%;
+}
+
+.texto-tres {
+    font-size: 20px;
+    padding-top: 30%;
+    padding-bottom: 5%;
+}
+
+.texto-quarto-boox {
+    font-size: 20px;
+    padding-top: 22%;
+    padding-bottom: 5%;
+}
+
+.icone-div {
+    font-size: 15px;
+    color: white !important;
+    cursor: pointer;
+}
+
+.icone-div:hover {
+    color: #ed242e !important;
+}
+
+.texto-branco {
+    color: white !important;
+    cursor: pointer;
+}
+
+.texto-branco:hover {
+    color: #ed242e !important;
+}
+
+.mapa {
+    background-image: url(https://technext.github.io/covido/images/map.png);
+    background-position: center;
+    background-size: cover;
+    height: 175px;
+}
+
+.linha-horizontal {
+    border: 1px solid white;
+    width: 65%;
+    margin-left: 17%;
+    margin-top: 7%;
+    margin-bottom: 2%;
+}
+
+.site {
+    padding-left: 30%;
+    color: white;
+}
+
+.teste {
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.menu-responsivo {
+    display: none;
+}
+
+.font-size-43 {
+    font-size: 43px;
+}
+
+.margin-top-1 {
+    margin-top: 7%;
+}
+
+.font-size-17 {
+    font-size: 17px;
+}
+
+.fonte-size-15 {
+    font-size: 17px;
+}
+
+.ultimo-box {
+    width: 92%;
+    position: relative;
+}
+
+.fonte-size-14 {
+    font-size: 43px;
+}
+
+.fonte-size-13 {
+    font-size: 17px;
+}
+
+.margin-top-3 {
+    margin-top: 3%;
+}
+
+.segundo-menu {
+    padding-left: 5%;
+    padding-top: 4%;
+    color: white !important;
+}
+
+.segundo-menu:hover {
+    color: #00132b !important;
+}
+
+.texto-white {
+    color: white !important;
+}
+
+@media (min-width: 300px) and (max-width: 600px) {
+    
+    .div-menu {
+        display: none;
+    }
+
+    .menu-responsivo {
+        display: unset;
+    }
+
+    .height-90 {
+        height: 0;
+    }
+
+    .background-color-azul {
+        background-color: white !important;
+    }
+
+    .icone-menu {
+        color: white !important;
+    }
+
+    .background-color-laranja {
+        background-color: white !important;
+    }
+
+    .background-image {
+        background-image: url(https://technext.github.io/covido/images/banner.png);
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        height: 500px;
+    }
+
+    .primeira-div {
+        color: white;
+        padding-top: 70%;
+        padding-left: 17%;
+        font-weight: bold;
+        font-size: 40px;
+    }
+
+    .icone-slide-show {
+        background-color: #ed242e;
+        width: 50px;
+        height: 50px;
+        border-radius: 100%;
+        margin-top: 245px;
+        opacity: 1 !important;
+        padding-bottom: 27px;
+        font-size: 37px;
+        padding-top: 25px;
+        padding-right: 5px;
+        margin-left: 0px;
+    }
+
+    .icone-direita-slide-show {
+        background-color: #ed242e;
+        width: 50px;
+        height: 50px;
+        border-radius: 100%;
+        margin-top: 240px;
+        opacity: 1 !important;
+        padding-bottom: 27px;
+        font-size: 37px;
+        padding-top: 25px;
+        padding-right: 5px;
+        margin-right: 0px;
+    }
+
+    .botao-primeira-div {
+        margin-left: 7%;
+        width: 175px;
+        margin-top: 10%;
+    }
+
+    .segundo-botao-primeira-div {
+        margin-left: 7% !important;
+        width: 175px;
+        margin-top: 10%;
+    }
+
+    .segunda-div {
+        margin-top: 4%;
+        margin-left: 5%;
+        background-color: white !important;
+        width: 89%;
+        box-shadow: 3px 0 62px rgb(13 3 3 / 18%);
+        border-radius: 60px;
+        top: -85px;
+        position: relative;
+    }
+
+    .texto-segunda-div {
+        padding-top: 25%;
+        padding-left: 2%;
+        margin-bottom: 10%;
+        font-size: 30px;
+    }
+
+    .divisor {
+        width: 48%;
+        height: 1%;
+        background-color: #ed242e !important;
+        margin-left: 3%;
+        border-radius: 10px;
+        margin-bottom: 10%;
+    }
+
+    .subtitulo-segunda-div {
+        padding-left: 4%;
+        font-size: 25px;
+    }
+
+    .height-600 {
+        height: 800px;
+    }
+
+    .botao-segunda-div {
+        margin-left: 4%;
+        width: 230px;
+        margin-top: 13%;
+        height: 65px;
+        background-color: #00132b !important;
+        color: white !important;
+    }
+
+    .background-image2 {
+        background-image: url(https://technext.github.io/covido/images/about.png);
+        background-position: center;
+        background-size: cover;
+        height: 100px;
+        width: 100px;
+        margin-right: 7%;
+        margin-top: 16%;
+        margin-left: 25%;
+    }
+
+    .padding-top-515 {
+        padding-top: 0;
+    }
+
+    .background-image3 {
+        background-image: url(https://technext.github.io/covido/images/corona.png);
+        background-position: center;
+        background-size: cover;
+        height: 180px;
+        margin-top: 6%;
+        width: 280px;
+    }
+
+    .texto {
+        padding-top: 6%;
+        font-size: 23px;
+        line-height: 35px;
+    }
+
+    .padding-top-15 {
+        padding-top: 15%;
+        font-size: 37px;
+    }
+
+    .botao {
+        width: 230px;
+        margin-top: 12%;
+        height: 65px;
+        background-color: #00132b !important;
+        color: white !important;
+        width: 100%;
+    }
+
+    .margin-top-7 {
+        margin-top: 95%;
+    }
+
+    .fonte-size-17 {
+        font-size: 22px;
+        margin-top: 6%;
+        text-align: left;
+    }
+
+    .font-size-43 {
+        font-size: 30px;
+    }
+
+    .div-height-600 {
+        height: 240px;
+    }
+
+    .background-image4 {
+        background-image: url(https://technext.github.io/covido/images/project.png);
+        background-position: center;
+        background-size: cover;
+        margin-top: 10%;
+        margin-left: 5%;
+        background-size: 100% 100%;
+        padding-bottom: 48px;
+        width: 90%;
+    }
+
+    .margin-top-1 {
+        margin-top: 55px;
+    }
+
+    .fonte-size-43 {
+        font-size: 39px;
+    }
+
+    .font-size-17 {
+        font-size: 22px;
+        margin-top: 8%;
+        text-align: left;
+        margin-left: 5%;
+    }
+
+    .padding-top-5 {
+        padding-top: 8%;
+    }
+
+    .botao-absolute {
+        width: 175px;
+        margin-top: 12%;
+        height: 50px;
+        background-color: #00132b !important;
+        color: white !important;
+        position: absolute;
+        top: 60px;
+        left: 70px;
+    }
+
+    .fonte-size-16 {
+        font-size: 22px;
+        text-align: left !important;
+        line-height: 35px;
+        padding-left: 4%;
+    }
+
+    .background-image5 {
+        background-image: url(https://technext.github.io/covido/images/corona_icon.png);
+        background-position: center;
+        background-size: cover;
+        width: 60px;
+        height: 60px;
+        position: absolute;
+        left: 225px;
+        top: 740px;
+    }
+
+    .background-imagem5 {
+        background-image: url(https://technext.github.io/covido/images/corona_icon.png);
+        background-position: center;
+        background-size: cover;
+        width: 60px;
+        height: 60px;
+        position: absolute;
+        left: 225px;
+        top: 740px;
+    }
+
+    .fonte-size-15 {
+        font-size: 22px;
+        text-align: left !important;
+        line-height: 35px;
+        padding-left: 4%;
+    }
+
+    element.style {
+        width: 100% !important;
+        position: relative;
+    }
+
+    .ultimo-box {
+        width: 100%;
+        position: relative;
+        height: 835px;
+    }
+
+    .texto-centro {
+        padding-top: 15%;
+        padding-bottom: 20%;
+    }
+
+    .fonte-size-14 {
+        font-size: 35px;
+    }
+
+    .height-400 {
+        height: 950px;
+    }
+
+    .background-image6 {
+        width: 105px;
+        height: 105px;
+        position: absolute;
+        left: 35%;
+        bottom: 86%;
+        box-shadow: 3px 0 62px rgb(13 3 3 / 18%);
+    }
+
+    .padding-top-20 {
+        padding-top: 30%;
+    }
+
+    .texto-centralizado {
+        padding-top: 5%;
+        padding-bottom: 10%;
+    }
+
+    .background-image7 {
+        background-image: url(https://technext.github.io/covido/images/ever_bg.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 270px;
+        width: 100%;
+    }
+
+    .div-email {
+        width: 94%;
+        padding-left: 7%;
+    }
+
+    .sexta-div-botao {
+        width: 10em;
+        margin-top: 7%;
+        height: 60px;
+        background-color: #00132b !important;
+        color: white !important;
+        position: revert;
+        border-radius: 50px;
+        margin-left: 18%;
+    }
+
+    .background-color-preto {
+        background-color: #111111 !important;
+        height: 1440px;
+    }
+
+    .titulo-ultima-div {
+        font-size: 24px;
+        padding-top: 50%;
+        padding-bottom: 5%;
+    }
+
+    .conteudo-ultima-div {
+        font-size: 22px;
+        color: #979793 !important;
+        cursor: pointer;
+    }
+
+    .segundo-titulo {
+        font-size: 24px;
+        padding-top: 31%;
+        padding-bottom: 5%;
+        padding-left: 3%;
+    }
+
+    .line-height-30 {
+        line-height: 30px;
+        padding-left: 3%;
+    }
+
+    .fonte-size-13 {
+        padding-left: 3%;
+        font-size: 22px;
+        margin-top: 6%;
+        text-align: left;
+    }
+
+    .texto-tres {
+        font-size: 24px;
+        padding-top: 30%;
+        padding-bottom: 5%;
+        padding-left: 3%;
+    }
+
+    .icone-div {
+        font-size: 20px;
+        color: white !important;
+        cursor: pointer;
+        padding-left: 3%;
+    }
+
+    .texto-quarto-boox {
+        font-size: 24px;
+        padding-top: 22%;
+        padding-bottom: 5%;
+        padding-left: 3%;
+    }
+
+    .mapa {
+        background-image: url(https://technext.github.io/covido/images/map.png);
+        background-position: center;
+        background-size: cover;
+        height: 145px;
+        margin-left: 2%;
+    }
+
+    .linha-horizontal {
+        border: 1px solid white;
+        width: 75%;
+        margin-left: 12%;
+        margin-top: 12%;
+        margin-bottom: 4%;
+    }
+
+    .site {
+        padding-left: 4%;
+        color: white;
+        font-size: 20px;
+    }
+
+}
+
+@media (min-width: 375px) and (max-width: 670px) {
+    .fa-user {
+        display: unset !important;
+    }
+
+    .background-image {
+        background-image: url(https://technext.github.io/covido/images/banner.png);
+        background-position: center;
+        background-size: cover;
+        height: 500px;
+        width: 380px;
+    }
+
+    .primeira-div {
+        color: white;
+        padding-top: 70%;
+        padding-left: 17%;
+        font-weight: bold;
+        font-size: 42px;
+    }
+
+    .botao-primeira-div {
+        margin-left: 4%;
+        width: 195px;
+        margin-top: 10%;
+    }
+
+    .segundo-botao-primeira-div {
+        margin-left: 4% !important;
+        width: 195px;
+        margin-top: 10%;
+    }
+
+    .icone-slide-show {
+        background-color: #ed242e;
+        width: 50px;
+        height: 50px;
+        border-radius: 100%;
+        margin-top: 250px;
+        opacity: 1 !important;
+        padding-bottom: 27px;
+        font-size: 37px;
+        padding-top: 25px;
+        padding-right: 5px;
+        margin-left: 0px;
+    }
+
+    .icone-direita-slide-show {
+        background-color: #ed242e;
+        width: 50px;
+        height: 50px;
+        border-radius: 100%;
+        margin-top: 250px;
+        opacity: 1 !important;
+        padding-bottom: 27px;
+        font-size: 37px;
+        padding-top: 25px;
+        padding-right: 5px;
+        margin-right: 0px;
+    }
+
+    .divisor {
+        width: 35%;
+        height: 1%;
+        background-color: #ed242e !important;
+        margin-left: 3%;
+        border-radius: 10px;
+        margin-bottom: 10%;
+    }
+
+    .botao-segunda-div {
+        margin-left: 4%;
+        width: 90%;
+        margin-top: 13%;
+        height: 65px;
+        background-color: #00132b !important;
+        color: white !important;
+    }
+
+    .background-image2 {
+        background-image: url(https://technext.github.io/covido/images/about.png);
+        background-position: center;
+        background-size: cover;
+        height: 130px;
+        width: 130px;
+        margin-right: 7%;
+        margin-top: 16%;
+        margin-left: 25%;
+    }
+
+    .background-image3 {
+        background-image: url(https://technext.github.io/covido/images/corona.png);
+        background-position: center;
+        background-size: cover;
+        height: 205px;
+        margin-top: 6%;
+        width: 320px;
+    }
+
+    .padding-top-15 {
+        padding-top: 15%;
+        font-size: 39px;
+    }
+
+    .texto {
+        padding-top: 6%;
+        font-size: 27px;
+        line-height: 35px;
+    }
+
+    .botao {
+        margin-top: 12%;
+        height: 65px;
+        background-color: #00132b !important;
+        color: white !important;
+        width: 98%;
+    }
+
+    .font-size-43 {
+        font-size: 37px;
+    }
+
+    .fonte-size-17 {
+        font-size: 27px;
+        margin-top: 6%;
+        text-align: left;
+    }
+
+    .background-image4 {
+        background-image: url(https://technext.github.io/covido/images/project.png);
+        background-position: center;
+        background-size: cover;
+        margin-top: 10%;
+        margin-left: 4%;
+        background-size: 100% 100%;
+        padding-bottom: 48px;
+        width: 90%;
+    }
+
+    .font-size-17 {
+        font-size: 27px;
+        margin-top: 8%;
+        text-align: left;
+        margin-left: 5%;
+    }
+
+    .botao-absolute {
+        width: 175px;
+        margin-top: 14%;
+        height: 50px;
+        background-color: #00132b !important;
+        color: white !important;
+        position: absolute;
+        top: 60px;
+        left: 100px;
+    }
+
+    .fonte-size-16 {
+        font-size: 27px;
+        text-align: left !important;
+        line-height: 35px;
+        padding-left: 4%;
+        padding-top: 5%;
+    }
+
+    .background-image5 {
+        background-image: url(https://technext.github.io/covido/images/corona_icon.png);
+        background-position: center;
+        background-size: cover;
+        width: 60px;
+        height: 60px;
+        position: absolute;
+        left: 285px;
+        top: 770px;
+    }
+
+    .fonte-size-15 {
+        font-size: 27px;
+        text-align: left !important;
+        line-height: 35px;
+        padding-left: 4%;
+        padding-top: 5%;
+    }
+
+    .background-imagem5 {
+        background-image: url(https://technext.github.io/covido/images/corona_icon.png);
+        background-position: center;
+        background-size: cover;
+        width: 60px;
+        height: 60px;
+        position: absolute;
+        left: 285px;
+        top: 770px;
+    }
+
+    .fonte-size-14 {
+        font-size: 39px;
+    }
+
+    .background-image6 {
+        width: 105px;
+        height: 105px;
+        position: absolute;
+        left: 35%;
+        bottom: 95%;
+        box-shadow: 3px 0 62px rgb(13 3 3 / 18%);
+    }
+
+    .padding-top-20 {
+        padding-top: 25%;
+    }
+
+    .padding-top-20 b {
+        font-size: 25px;
+    }
+
+    .padding-top-20 p {
+        font-size: 23px;
+    }
+
+    .ultimo-box {
+        width: 100%;
+        position: relative;
+        height: 870px;
+    }
+
+    .texto-centro {
+        padding-top: 20%;
+        padding-bottom: 20%;
+    }
+
+    .background-image6 {
+        width: 105px;
+        height: 105px;
+        position: absolute;
+        left: 35%;
+        bottom: 90%;
+        box-shadow: 3px 0 62px rgb(13 3 3 / 18%);
+    }
+
+    .height-400 {
+        height: 1285px;
+    }
+
+    .texto-centralizado {
+        padding-top: 5%;
+        padding-bottom: 13%;
+    }
+
+    .div-email {
+        width: 94%;
+        padding-left: 7%;
+        margin-top: 12%;
+    }
+
+    .background-image7 {
+        background-image: url(https://technext.github.io/covido/images/ever_bg.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 320px;
+        width: 100%;
+    }
+
+    .sexta-div-botao {
+        width: 11em;
+        margin-top: 7%;
+        height: 70px;
+        background-color: #00132b !important;
+        color: white !important;
+        position: revert;
+        border-radius: 50px;
+        margin-left: 18%;
+    }
+
+    .background-color-preto {
+        background-color: #111111 !important;
+        height: 1670px;
+    }
+
+    .titulo-ultima-div {
+        font-size: 26px;
+        padding-top: 50%;
+        padding-bottom: 5%;
+    }
+
+    .conteudo-ultima-div {
+        font-size: 25px;
+        color: #979793 !important;
+        cursor: pointer;
+    }
+
+    .segundo-titulo {
+        font-size: 26px;
+        padding-top: 31%;
+        padding-bottom: 5%;
+        padding-left: 3%;
+    }
+
+    .fonte-size-13 {
+        padding-left: 3%;
+        font-size: 26px;
+        margin-top: 6%;
+        text-align: left;
+    }
+
+    .texto-tres {
+        font-size: 26px;
+        padding-top: 30%;
+        padding-bottom: 5%;
+        padding-left: 3%;
+    }
+
+    .icone-div {
+        font-size: 23px;
+        color: white !important;
+        cursor: pointer;
+        padding-left: 3%;
+    }
+
+    .texto-branco {
+        color: white !important;
+        cursor: pointer;
+        font-size: 24px;
+    }
+
+    .texto-quarto-boox {
+        font-size: 26px;
+        padding-top: 22%;
+        padding-bottom: 5%;
+        padding-left: 3%;
+    }
+
+    .mapa {
+        background-image: url(https://technext.github.io/covido/images/map.png);
+        background-position: center;
+        background-size: cover;
+        height: 170px;
+        margin-left: 2%;
+    }
+
+    .linha-horizontal {
+        border: 2px solid white;
+        width: 75%;
+        margin-left: 12%;
+        margin-top: 12%;
+        margin-bottom: 7%;
+    }
+
+    .site {
+        padding-left: 2%;
+        color: white;
+        font-size: 24px;
+    }
+
+    .linha-horizontal {
+        border: 2px solid white;
+        width: 85%;
+        margin-left: 6%;
+        margin-top: 12%;
+        margin-bottom: 7%;
+    }
+
+    .texto-white {
+        color: white !important;
+        font-size: 24px;
+    }
+
+}
+
+@media (min-width: 400px) and (max-width: 750px) {
+    .cor-red {
+        background-color: #ed242e !important;
+        width: 425px;
+    }
+
+    .background-color-azul {
+        background-color: #ed242e !important;
+    }
+
+    .background-color-laranja {
+        background-color: #ed242e !important;
+    }
+
+    .icone-menu {
+        color: #ed242e !important;
+    }
+
+    .background-image {
+        background-image: url(https://technext.github.io/covido/images/banner.png);
+        background-position: center;
+        background-size: cover;
+        height: 500px;
+        width: 425px;
+    }
+
+    .primeira-div {
+        color: white;
+        padding-top: 40%;
+        padding-left: 17%;
+        font-weight: bold;
+        font-size: 50px;
+    }
+
+    .botao-primeira-div {
+        margin-left: 4%;
+        width: 230px;
+        margin-top: 14%;
+    }
+
+    .segundo-botao-primeira-div {
+        margin-left: 4% !important;
+        width: 230px;
+        margin-top: 14%;
+    }
+
+    .icone-slide-show {
+        background-color: #ed242e;
+        width: 60px;
+        height: 60px;
+        border-radius: 100%;
+        margin-top: 250px;
+        opacity: 1 !important;
+        padding-bottom: 27px;
+        font-size: 37px;
+        padding-top: 25px;
+        padding-right: 5px;
+        margin-left: 4px;
+    }
+
+    .icone-direita-slide-show {
+        background-color: #ed242e;
+        width: 60px;
+        height: 60px;
+        border-radius: 100%;
+        margin-top: 250px;
+        opacity: 1 !important;
+        padding-bottom: 27px;
+        font-size: 37px;
+        padding-top: 25px;
+        padding-right: 5px;
+        margin-right: -10px;
+    }
+
+    .segunda-div {
+        margin-top: 4%;
+        margin-left: 6%;
+        background-color: white !important;
+        width: 91%;
+        box-shadow: 3px 0 62px rgb(13 3 3 / 18%);
+        border-radius: 60px;
+        top: -85px;
+        position: relative;
+    }
+    
+    .divisor {
+        width: 35%;
+        height: 1%;
+        background-color: #ed242e !important;
+        margin-left: 3%;
+        border-radius: 10px;
+        margin-bottom: 5%;
+    }
+
+    .subtitulo-segunda-div {
+        padding-left: 4%;
+        font-size: 27px;
+    }
+
+    .botao-segunda-div {
+        margin-left: 4%;
+        width: 92%;
+        margin-top: 13%;
+        height: 65px;
+        background-color: #00132b !important;
+        color: white !important;
+    }
+
+    .background-image2 {
+        background-image: url(https://technext.github.io/covido/images/about.png);
+        background-position: center;
+        background-size: cover;
+        height: 155px;
+        width: 155px;
+        margin-right: 7%;
+        margin-top: 16%;
+        margin-left: 27%;
+    }
+
+    .background-image3 {
+        background-image: url(https://technext.github.io/covido/images/corona.png);
+        background-position: center;
+        background-size: cover;
+        height: 240px;
+        margin-top: 6%;
+        width: 370px;
+        margin-left: 3%;
+    }
+
+    .padding-top-15 {
+        padding-top: 15%;
+        font-size: 39px;
+        padding-left: 5%;
+    }
+    
+    .texto {
+        padding-top: 6%;
+        font-size: 29px;
+        line-height: 35px;
+        padding-left: 5%;
+    }
+
+    .botao {
+        margin-top: 12%;
+        height: 65px;
+        background-color: #00132b !important;
+        color: white !important;
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    .font-size-43 {
+        font-size: 39px;
+    }
+
+    .fonte-size-17 {
+        font-size: 29px;
+        margin-top: 6%;
+        text-align: left;
+        padding-left: 5%;
+    }
+
+    .background-image4 {
+        background-image: url(https://technext.github.io/covido/images/project.png);
+        background-position: center;
+        background-size: cover;
+        margin-top: 10%;
+        margin-left: 7%;
+        background-size: 100% 100%;
+        padding-bottom: 48px;
+        width: 89%;
+    }
+
+    .font-size-17 {
+        font-size: 29px;
+        margin-top: 8%;
+        text-align: left;
+        margin-left: 8%;
+    }
+
+    .botao-absolute {
+        width: 175px;
+        margin-top: 14%;
+        height: 50px;
+        background-color: #00132b !important;
+        color: white !important;
+        position: absolute;
+        top: 50px;
+        left: 120px;
+    }
+
+    .fonte-size-16 {
+        font-size: 29px;
+        text-align: left !important;
+        line-height: 35px;
+        padding-left: 5%;
+        padding-top: 5%;
+    }
+
+    .background-image5 {
+        background-image: url(https://technext.github.io/covido/images/corona_icon.png);
+        background-position: center;
+        background-size: cover;
+        width: 60px;
+        height: 60px;
+        position: absolute;
+        left: 330px;
+        top: 770px;
+    }
+
+    .fonte-size-15 {
+        font-size: 29px;
+        text-align: left !important;
+        line-height: 35px;
+        padding-left: 5%;
+        padding-top: 5%;
+    }
+
+    .background-imagem5 {
+        background-image: url(https://technext.github.io/covido/images/corona_icon.png);
+        background-position: center;
+        background-size: cover;
+        width: 60px;
+        height: 60px;
+        position: absolute;
+        left: 330px;
+        top: 770px;
+    }
+
+    .fonte-size-14 {
+        font-size: 34px;
+    }
+
+    .height-400 {
+        height: 1385px;
+        margin-left: 0%;
+    }
+
+    .background-image6 {
+        width: 105px;
+        height: 105px;
+        position: absolute;
+        left: 38%;
+        bottom: 91%;
+        box-shadow: 3px 0 62px rgb(13 3 3 / 18%);
+    }
+
+    .padding-top-20 p {
+        font-size: 25px;
+    }
+
+    .div-email {
+        width: 98%;
+        padding-left: 5%;
+        margin-top: 15%;
+    }
+
+    .sexta-div-botao {
+        width: 15em;
+        height: 70px;
+        background-color: #00132b !important;
+        color: white !important;
+        position: revert;
+        border-radius: 50px;
+        margin-left: 15%;
+    }
+
+    .background-image7 {
+        background-image: url(https://technext.github.io/covido/images/ever_bg.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 350px;
+        width: 100%;
+    }
+
+    .titulo-ultima-div {
+        font-size: 30px;
+        padding-top: 50%;
+        padding-bottom: 5%;
+    }
+
+    .segundo-titulo {
+        font-size: 30px;
+        padding-top: 31%;
+        padding-bottom: 5%;
+        padding-left: 5%;
+    }
+
+    .texto-tres {
+        font-size: 30px;
+        padding-top: 30%;
+        padding-bottom: 5%;
+        padding-left: 5%;
+    }
+
+    .texto-quarto-boox {
+        font-size: 30px;
+        padding-top: 22%;
+        padding-bottom: 5%;
+        padding-left: 5%;
+    }
+
+    .conteudo-ultima-div {
+        font-size: 30px;
+        color: #979793 !important;
+        cursor: pointer;
+    }
+
+    .line-height-30 {
+        line-height: 30px;
+        padding-left: 5%;
+    }
+
+    .fonte-size-13 {
+        padding-left: 5%;
+        font-size: 30px;
+        margin-top: 6%;
+        text-align: left;
+    }
+
+    .icone-div {
+        font-size: 27px;
+        color: white !important;
+        cursor: pointer;
+        padding-left: 5%;
+    }
+
+    .texto-white {
+        color: white !important;
+        font-size: 28px;
+    }
+
+    .texto-branco {
+        color: white !important;
+        cursor: pointer;
+        font-size: 28px;
+    }
+
+    .background-color-preto {
+        background-color: #111111 !important;
+        height: 1920px;
+    }
+
+    .mapa {
+        background-image: url(https://technext.github.io/covido/images/map.png);
+        background-position: center;
+        background-size: cover;
+        height: 200px;
+        margin-left: 2%;
+    }
+
+    .site {
+        padding-left: 10%;
+        color: white;
+        font-size: 24px;
+    }
+
+}
+
+@media (min-width: 370px) and (max-width: 820px) {
+    
+}
